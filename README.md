@@ -4,7 +4,7 @@ PCB de un oscilador controlado por voltaje basado en el circuito integrado CEM33
 Comparto el archivo de fritzing con el que puedes imprimir tus propias PCBs y construir tu propio módulo
 
 Lista de materiales:
-- Trimpot 10kΩ (recomendado 10 o 20 vueltas)
+- Trimpot 10kΩ (recomendado 15 o 20 vueltas)
 - Potenciometro 100kΩ
 - Bases para circuito integrado de 8 pines y 16 pines
 - 2x Resistencia de 470Ω
