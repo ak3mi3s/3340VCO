@@ -1,5 +1,5 @@
 # 3340VCO
-PCB de un oscilador controlado por voltaje basado en el circuito integrado CEM3340 y el esquemático de LookMumNoComputer 
+PCB de oscilador controlado por voltaje basado en el circuito integrado CEM3340 y el esquemático de LookMumNoComputer 
 
 Comparto el archivo de fritzing con el que puedes imprimir tus propias PCBs y construir tu propio módulo
 
