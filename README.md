@@ -18,5 +18,5 @@ Lista de materiales:
 - Capacitor cerámico 10nf (103)
 - CEM3340 (puede ser AS3340 - Through Hole (DIP-16)) https://www.thonk.co.uk/shop/alpha-as-series-ic-chips/
 - TL072
-- 3x Thonkiconn Jacks
+- 3x Thonkiconn jacks
 - Eurorack power cable
