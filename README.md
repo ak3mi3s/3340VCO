@@ -22,4 +22,5 @@ Lista de materiales:
 - Eurorack power cable
 
 Esquemático y ensamblaje en tarjeta perforada por LookMumNoComputer: 
+
 https://www.lookmumnocomputer.com/projects#/cem-3340-diy-simple
