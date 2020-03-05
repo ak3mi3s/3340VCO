@@ -6,7 +6,7 @@ Comparto el archivo de fritzing con el que puedes imprimir tus propias PCBs y co
 Lista de materiales:
 - Trimpot 10kΩ (se recomienda de 15 o 20 vueltas)
 - Potenciometro 100kΩ
-- Bases para circuito integrado de 8 pines y 16 pines
+- Bases para circuito integrado de 8 pin y 16 pin
 - 2x Resistencia de 470Ω
 - Resistencia 620Ω (puede ser 680Ω)
 - Resistencia 1k8Ω
